@@ -15,8 +15,4 @@ class Post
     @@all
   end
 
-  # def author
-  #   self.name
-  # end
-
 end
